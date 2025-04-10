@@ -1,0 +1,30 @@
+Contacts loaded successfully!
+             -----Contact Menu-----
+             1.Add a Contact
+             2.View All Contacts
+             3.Search A Contact
+             4.Delete a Contact
+             5.Save The Contacts and exit
+             ----- End of Menu -----
+
+Enter a Choice:2
+     -----List of All the Contacts ----
+1.Name of the Contact: nane, Phone Number: 1231231231, Email of the Contact: gamil.comc
+
+2.Name of the Contact: youafa, Phone Number: 1231231232, Email of the Contact: turn@gmail.com
+
+3.Name of the Contact: contact1, Phone Number: 1231231231, Email of the Contact: contact1@gmail.com
+
+4.Name of the Contact: contact2, Phone Number: 1231231232, Email of the Contact: contact2@gmail.com
+
+5.Name of the Contact: contact3, Phone Number: 1231231233, Email of the Contact: contact3@gmail.com
+
+             -----Contact Menu-----
+             1.Add a Contact
+             2.View All Contacts
+             3.Search A Contact
+             4.Delete a Contact
+             5.Save The Contacts and exit
+             ----- End of Menu -----
+
+Enter a Choice:
